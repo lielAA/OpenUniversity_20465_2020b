@@ -2,7 +2,7 @@
 
 ### In order to complile .c files follow next steps:
 <b>1.</b> In directory/folder .c located open terminal.
-<br><b>2.</b> Enter next command: <b>gcc -g -Wall -ansi -pedantic [programName.c] -o [outputProgramName]</b>
+<br><b>2.</b> Enter one of the next commands: <b>make</b> <br>OR<br> <b>gcc -g -Wall -ansi -pedantic [programName.c] -o [outputProgramName]</b>
 <br><b>3.</b> Run executable file: <b>./[outputProgramName]</b>
 
 ### Change stdin & stdout default: 
