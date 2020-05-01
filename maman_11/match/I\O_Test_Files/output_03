@@ -1,0 +1,9 @@
+
+Please insert your pattern string
+
+Please insert your text string
+
+Your pattern is: abc
+Your text is: acbabcabb
+
+The best matching position is : abc ; that start at index 3.
