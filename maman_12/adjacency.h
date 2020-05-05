@@ -1,10 +1,10 @@
 #include <stdio.h>
-#define N 2
+#define N 3
 
-typedef enum{false,true} bool;
+typedef enum{FALSE,TRUE} bool;
 typedef bool adjmat[N][N];
-adjmat A;
+/*adjmat A;*/
 
-void inputMatrix();
-void outputMatrix();
+void inputMatrix(adjmat);
+void outputMatrix(adjmat);
 bool path(adjmat A,int,int);
