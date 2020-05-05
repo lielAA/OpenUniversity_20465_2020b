@@ -1,23 +1,13 @@
 #include "adjacency.h"
-/*#include <stdio.h>
-#define N 3
-
-typedef enum{false,true} bool;
-typedef bool adjmat[N][N];
-adjmat A;
-
-void inputMatrix();
-void outputMatrix();
-bool path(adjmat A,int,int);*/
 
 int main()
 {
     int u,v;
+    adjmat A;
     bool b;
-    inputMatrix();
-    outputMatrix();
+    inputMatrix(A);
+    outputMatrix(A);
     
-
     printf("\nPlease insert two numbers with Enter between them, that represent path from 1st num to 2nd num in matrix\n");
 	while(scanf("%d %d",&u,&v) == 2 && (!(u==-1 && v==-1)))
     {
@@ -30,7 +20,7 @@ int main()
         else
         {
             b = path(A,u,v);
-            if(b == false)
+            if(b == FALSE)
                 printf("There is No path from %d to %d in your tree\n",u,v);
             else
                 printf("There is a path from %d to %d in your tree\n",u,v);
@@ -41,7 +31,7 @@ int main()
     return 0;
 }
 
-void inputMatrix() 
+void inputMatrix(adjmat A) 
 {
     int u, v;
     printf("\nPlease enter values for matrix by [%d][%d], after any value press Enter.\n", N, N);
@@ -55,7 +45,7 @@ void inputMatrix()
     }
 }
 
-void outputMatrix()
+void outputMatrix(adjmat A)
 {
     int u,v;
     printf("\n\nYour matrix is:\n\n    ");
@@ -77,19 +67,14 @@ void outputMatrix()
 
 bool path(adjmat A,int u,int v)
 {
-    /*bool b = false;*/
-    printf("\nu = %d ; v=%d\n",u,v);
     if(v > N-1 || v < 0)
-        return false;
+        return FALSE;
     if(u > N-1 || u < 0)
-        return true;    
-    if(A[u][v] == 1)          
-        return path(A,u+1,v) || path(A,u-1,v);
-    return path(A,u,v+1) && path(A,u,v-1);
-
-
-    /*if(A[u][v] == 0)          
-        return path(A,u+1,v) || path(A,u-1,v);
-    return path(A,u,v+1) && path(A,u,v-1);*/
-    
+        return FALSE;
+    if((u == N-1 || v == N-1) && A[u][v] == 0)
+        return FALSE;    
+    if(A[u][v] == 1)
+        return TRUE;
+    return ((path(A,u,v+1) || path(A,u,v-1)) ||
+            (path(A,u+1,v) || path(A,u-1,v)));
 }
