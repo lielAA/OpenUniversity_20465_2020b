@@ -1,0 +1,14 @@
+mult_comp_real ,W,2
+mult_comp_real 5,D
+mult_comp_real .D	,4.4
+mult_comp_real 5.5	,	9.3
+mult_comp_real 6.4,90,
+mult_comp_real 6..4,80
+mult_comp_real 6.4,8..0
+mult_comp_real A,90,
+mult_comp_real C,8..0
+mult_comp_real C,8.0.
+mult_comp_real D
+mult_comp_real 10
+mult_comp_real A,
+

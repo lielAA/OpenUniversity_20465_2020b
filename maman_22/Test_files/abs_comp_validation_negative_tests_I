@@ -1,0 +1,15 @@
+read_comp A,2,3
+print_comp
+print_comp A,
+print_compA
+print_comp A,1
+print_comp A1
+print_comp 1A
+print_comp .A
+print_comp A,B
+print_comp AB
+print A
+print_com A
+
+	
+ 

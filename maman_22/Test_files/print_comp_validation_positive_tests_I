@@ -1,0 +1,30 @@
+read_comp A,2,3
+print_comp A
+read_comp A,	4,5
+print_comp 			A
+read_comp A,2.2,	3
+print_comp A
+read_comp A	,2,	3.3
+print_comp    A
+read_comp A ,2.345 ,	3.678
+print_comp A
+read_comp A,-1,2
+print_comp 						A
+read_comp A,1, -2
+print_comp         A
+read_comp A,	-1,-2
+print_comp A
+read_comp A,	-1.111 ,-2.2222
+print_comp A
+read_comp A,-153.111,-295.2222
+print_comp A
+read_comp B,-5.5,-6.6
+read_comp C,-7.7,-8.8
+read_comp D,-9.9,-10.10
+read_comp E,10.2, 11.111
+read_comp F,18.333	,		99.15
+print_comp 	B
+print_comp  C
+print_comp 		D
+print_comp    E
+print_comp 					F

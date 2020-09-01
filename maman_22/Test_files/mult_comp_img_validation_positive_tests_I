@@ -1,0 +1,19 @@
+read_comp A,2,3
+mult_comp_img    A,2
+mult_comp_img 	A,218
+mult_comp_img A ,5.4
+mult_comp_img A	,-50.4
+mult_comp_img A,1
+mult_comp_img A,-1
+read_comp F,	10.15, 332.15
+mult_comp_img F, 8
+mult_comp_img F	,856
+mult_comp_img F,   -844
+mult_comp_img 		F, -89.13
+read_comp B,-12.14,-0.182
+mult_comp_img B,	9
+mult_comp_img 	B,909
+mult_comp_img B	,91.11
+mult_comp_img    B,	         -97.416
+	mult_comp_img B,8
+  mult_comp_img    B,-12

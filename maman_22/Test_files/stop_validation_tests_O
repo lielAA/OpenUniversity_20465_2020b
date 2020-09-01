@@ -1,0 +1,72 @@
+
+Enter one of the following next commands with relevant parameters for each:
+1. read_comp 
+2. print_comp 
+3. add_comp 
+4. sub_comp 
+5. mult_comp_real 
+6. mult_comp_img 
+7. mult_comp_comp 
+8. abs_comp 
+9. stop
+
+Examples for different commands:
+--------------------------------
+read_comp A,20,3
+print_comp C
+sub_comp B,D
+mult_comp_real E,-51.22
+--------------------------------
+Insert command here:
+
+Typed Command: 
+	stopp
+
+Undefined command name
+#############################
+Please enter another command:
+
+Typed Command: 
+ sstop
+
+Undefined command name
+#############################
+Please enter another command:
+
+Typed Command: 
+ 	sttop
+
+Undefined command name
+#############################
+Please enter another command:
+
+Typed Command: 
+stooop
+
+Undefined command name
+#############################
+Please enter another command:
+
+Typed Command: 
+sop
+
+Undefined command name
+#############################
+Please enter another command:
+
+Typed Command: 
+top
+
+Undefined command name
+#############################
+Please enter another command:
+
+Typed Command: 
+post
+
+Undefined command name
+#############################
+Please enter another command:
+
+Typed Command: 
+stop

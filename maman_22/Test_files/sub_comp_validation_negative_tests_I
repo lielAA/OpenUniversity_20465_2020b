@@ -1,0 +1,14 @@
+sub_comp A,G
+sub_comp G,A
+sub_comp a,B
+sub_comp A,b
+sub_comp
+sub_comp
+sub_comp A,
+sub_comp A
+sub_comp A,B,
+sub_comp A,BC
+sub_comp A,,B
+sub_comp A,,,B
+sub_comp 2.5
+sub_comp A B

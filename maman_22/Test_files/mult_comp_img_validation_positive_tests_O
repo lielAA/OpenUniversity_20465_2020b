@@ -1,0 +1,153 @@
+
+Enter one of the following next commands with relevant parameters for each:
+1. read_comp 
+2. print_comp 
+3. add_comp 
+4. sub_comp 
+5. mult_comp_real 
+6. mult_comp_img 
+7. mult_comp_comp 
+8. abs_comp 
+9. stop
+
+Examples for different commands:
+--------------------------------
+read_comp A,20,3
+print_comp C
+sub_comp B,D
+mult_comp_real E,-51.22
+--------------------------------
+Insert command here:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img    A,2
+
+-6.00 + (4.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img 	A,218
+
+-654.00 + (436.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img A ,5.4
+
+-16.20 + (10.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img A	,-50.4
+
+151.20 + (-100.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img A,1
+
+-3.00 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img A,-1
+
+3.00 + (-2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,	10.15, 332.15
+
+F = 10.15 + (332.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img F, 8
+
+-2657.20 + (81.20)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img F	,856
+
+-284320.40 + (8688.40)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img F,   -844
+
+280334.60 + (-8566.60)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img 		F, -89.13
+
+29604.53 + (-904.67)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,-12.14,-0.182
+
+B = -12.14 + (-0.18)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img B,	9
+
+1.64 + (-109.26)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img 	B,909
+
+165.44 + (-11035.26)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img B	,91.11
+
+16.58 + (-1106.08)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img    B,	         -97.416
+
+-17.73 + (1182.63)i
+#############################
+Please enter another command:
+
+Typed Command: 
+	mult_comp_img B,8
+
+1.46 + (-97.12)i
+#############################
+Please enter another command:
+
+Typed Command: 
+  mult_comp_img    B,-12
+
+-2.18 + (145.68)i
+#############################
+Please enter another command:

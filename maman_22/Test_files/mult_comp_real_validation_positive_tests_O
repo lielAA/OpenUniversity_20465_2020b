@@ -1,0 +1,139 @@
+
+Enter one of the following next commands with relevant parameters for each:
+1. read_comp 
+2. print_comp 
+3. add_comp 
+4. sub_comp 
+5. mult_comp_real 
+6. mult_comp_img 
+7. mult_comp_comp 
+8. abs_comp 
+9. stop
+
+Examples for different commands:
+--------------------------------
+read_comp A,20,3
+print_comp C
+sub_comp B,D
+mult_comp_real E,-51.22
+--------------------------------
+Insert command here:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real    A,2
+
+4.00 + (6.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real 	A,218
+
+436.00 + (654.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real A ,5.4
+
+10.80 + (16.20)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real A	,-50.4
+
+-100.80 + (-151.20)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,	10.15, 332.15
+
+F = 10.15 + (332.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real F, 8
+
+81.20 + (2657.20)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real F	,856
+
+8688.40 + (284320.40)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real F,   -844
+
+-8566.60 + (-280334.60)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real 		F, -89.13
+
+-904.67 + (-29604.53)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,-12.14,-0.182
+
+B = -12.14 + (-0.18)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real B,	9
+
+-109.26 + (-1.64)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real 	B,909
+
+-11035.26 + (-165.44)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real B	,91.11
+
+-1106.08 + (-16.58)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real    B,	         -97.416
+
+1182.63 + (17.73)i
+#############################
+Please enter another command:
+
+Typed Command: 
+	mult_comp_real B,8
+
+-97.12 + (-1.46)i
+#############################
+Please enter another command:
+
+Typed Command: 
+  mult_comp_real    B,-12
+
+145.68 + (2.18)i
+#############################
+Please enter another command:

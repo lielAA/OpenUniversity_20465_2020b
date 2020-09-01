@@ -1,0 +1,11 @@
+read_comp A,,2.5,3.8
+read_comp A,2..5,3.8
+read_comp A,2.5,	3..8
+read_comp A,2...5,3.8
+read_comp A,  18.5,4.
+read_comp A,  18.5,   .94
+read_comp A,  18.5,94,
+read_compp
+read_comp	
+read_comp
+

@@ -1,0 +1,19 @@
+add_comp A,G
+add_comp G,A
+add_comp a,B
+add_comp A,b
+Add_comp
+add_comp
+add_comp A,
+add_comp A
+add_comp A,B,
+add_comp A,BC
+add_comp A,,B
+add_comp A,,,B
+add_comp 2.5
+add_comp A B
+add A,B
+add_com A,B
+
+ 
+	

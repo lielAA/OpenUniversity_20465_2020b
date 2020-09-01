@@ -1,0 +1,15 @@
+mult_comp_comp A,G
+mult_comp_comp G,A
+mult_comp_comp a,B
+mult_comp_comp A,b
+mult_comp_comp
+mult_comp_comp
+mult_comp_comp A,
+mult_comp_comp A
+mult_comp_comp A,B,
+mult_comp_comp A,BC
+mult_comp_comp A,,B
+mult_comp_comp A,,,B
+mult_comp_comp 2.5
+mult_comp_comp A B
+

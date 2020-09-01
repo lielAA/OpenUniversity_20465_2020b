@@ -1,0 +1,161 @@
+read_comp A,2,3
+print_comp A
+read_comp B,2.3	,	220.15
+print_comp B
+read_comp C, -15.15 , 87.133
+print_comp C
+abs_comp C
+mult_comp_comp A,C
+mult_comp_img C,-33.567
+read_comp A,99.6,-21.15
+add_comp A,C
+sub_comp A,C
+sub_comp C,A
+mult_comp_comp B,C
+mult_comp_real C,	-66.45
+abs_comp A
+read_comp F,5,200
+print_comp F
+read_comp D,25.13	,	-913.15
+print_comp B
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+print_comp E
+abs_comp E
+mult_comp_comp F,E
+mult_comp_img E,-33.567
+read_comp F,99.6,-21.15
+add_comp F,D
+sub_comp D,F
+sub_comp F,D
+mult_comp_comp F,E
+mult_comp_real E,	-66.45
+abs_comp E
+read_comp A,2,3
+print_comp A
+read_comp B,2.3	,	220.15
+print_comp B
+read_comp C, -15.15 , 87.133
+print_comp C
+abs_comp C
+mult_comp_comp A,C
+mult_comp_img C,-33.567
+read_comp A,99.6,-21.15
+add_comp A,C
+sub_comp A,C
+sub_comp C,A
+mult_comp_comp B,C
+mult_comp_real C,	-66.45
+abs_comp A
+read_comp F,5,200
+print_comp F
+read_comp D,25.13	,	-913.15
+print_comp B
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+print_comp E
+abs_comp E
+mult_comp_comp F,E
+mult_comp_img E,-33.567
+read_comp F,99.6,-21.15
+add_comp F,D
+sub_comp D,F
+sub_comp F,D
+mult_comp_comp F,E
+mult_comp_real E,	-66.45
+abs_comp E
+read_comp A,2,3
+print_comp A
+read_comp B,2.3	,	220.15
+print_comp B
+read_comp C, -15.15 , 87.133
+print_comp C
+abs_comp C
+mult_comp_comp A,C
+mult_comp_img C,-33.567
+read_comp A,99.6,-21.15
+add_comp A,C
+sub_comp A,C
+sub_comp C,A
+mult_comp_comp B,C
+mult_comp_real C,	-66.45
+abs_comp A
+read_comp F,5,200
+print_comp F
+read_comp D,25.13	,	-913.15
+print_comp B
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+print_comp E
+abs_comp E
+mult_comp_comp F,E
+mult_comp_img E,-33.567
+read_comp F,99.6,-21.15
+add_comp F,D
+sub_comp D,F
+sub_comp F,D
+mult_comp_comp F,E
+mult_comp_real E,	-66.45
+abs_comp E
+read_comp A,2,3
+print_comp A
+read_comp B,2.3	,	220.15
+print_comp B
+read_comp C, -15.15 , 87.133
+print_comp C
+abs_comp C
+mult_comp_comp A,C
+mult_comp_img C,-33.567
+read_comp A,99.6,-21.15
+add_comp A,C
+sub_comp A,C
+sub_comp C,A
+mult_comp_comp B,C
+mult_comp_real C,	-66.45
+abs_comp A
+read_comp F,5,200
+print_comp F
+read_comp D,25.13	,	-913.15
+print_comp B
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+print_comp E
+abs_comp E
+mult_comp_comp F,E
+mult_comp_img E,-33.567
+read_comp F,99.6,-21.15
+add_comp F,D
+sub_comp D,F
+sub_comp F,D
+mult_comp_comp F,E
+mult_comp_real E,	-66.45
+abs_comp E
+read_comp A,2,3
+print_comp A
+read_comp B,2.3	,	220.15
+print_comp B
+read_comp C, -15.15 , 87.133
+print_comp C
+abs_comp C
+mult_comp_comp A,C
+mult_comp_img C,-33.567
+read_comp A,99.6,-21.15
+add_comp A,C
+sub_comp A,C
+sub_comp C,A
+mult_comp_comp B,C
+mult_comp_real C,	-66.45
+abs_comp A
+read_comp F,5,200
+print_comp F
+read_comp D,25.13	,	-913.15
+print_comp B
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+print_comp E
+abs_comp E
+mult_comp_comp F,E
+mult_comp_img E,-33.567
+read_comp F,99.6,-21.15
+add_comp F,D
+sub_comp D,F
+sub_comp F,D
+mult_comp_comp F,E
+mult_comp_real E,	-66.45
+abs_comp E
+stop

@@ -1,0 +1,153 @@
+
+Enter one of the following next commands with relevant parameters for each:
+1. read_comp 
+2. print_comp 
+3. add_comp 
+4. sub_comp 
+5. mult_comp_real 
+6. mult_comp_img 
+7. mult_comp_comp 
+8. abs_comp 
+9. stop
+
+Examples for different commands:
+--------------------------------
+read_comp A,20,3
+print_comp C
+sub_comp B,D
+mult_comp_real E,-51.22
+--------------------------------
+Insert command here:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,212,345
+
+A = 212.00 + (345.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2.5,3.8
+
+A = 2.50 + (3.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2,3.8
+
+A = 2.00 + (3.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,28.46,374.102
+
+A = 28.46 + (374.10)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2.5,3
+
+A = 2.50 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,	2.5,3.8
+
+A = 2.50 + (3.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-7,8
+
+A = -7.00 + (8.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-153,-3993
+
+A = -153.00 + (-3993.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,7,-8
+
+A = 7.00 + (-8.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-7,-8
+
+A = -7.00 + (-8.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,	-7,  -8
+
+A = -7.00 + (-8.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-7.987 , -8
+
+A = -7.99 + (-8.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-7	,-8.753
+
+A = -7.00 + (-8.75)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-2.114 ,	-36.337
+
+A = -2.11 + (-36.34)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,    -0.159   ,  1.258
+
+A = -0.16 + (1.26)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2.5	,3.8
+
+A = 2.50 + (3.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2.5,	3.8
+
+A = 2.50 + (3.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2.5,3.8
+
+A = 2.50 + (3.80)i
+#############################
+Please enter another command:

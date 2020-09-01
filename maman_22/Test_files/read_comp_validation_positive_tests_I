@@ -1,0 +1,19 @@
+read_comp A,2,3
+read_comp A,212,345
+read_comp A,2.5,3.8
+read_comp A,2,3.8
+read_comp A,28.46,374.102
+read_comp A,2.5,3
+read_comp A,	2.5,3.8
+read_comp A,-7,8
+read_comp A,-153,-3993
+read_comp A,7,-8
+read_comp A,-7,-8
+read_comp A,	-7,  -8
+read_comp A,-7.987 , -8
+read_comp A,-7	,-8.753
+read_comp A,-2.114 ,	-36.337
+read_comp A,    -0.159   ,  1.258
+read_comp A,2.5	,3.8
+read_comp A,2.5,	3.8
+read_comp A,2.5,3.8

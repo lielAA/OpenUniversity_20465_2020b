@@ -1,0 +1,14 @@
+mult_comp_img ,W,2
+mult_comp_img 5,D
+mult_comp_img .D	,4.4
+mult_comp_img 5.5	,	9.3
+mult_comp_img 6.4,90,
+mult_comp_img 6..4,80
+mult_comp_img 6.4,8..0
+mult_comp_img A,90,
+mult_comp_img C,8..0
+mult_comp_img C,8.0.
+mult_comp_img D
+mult_comp_img 10
+mult_comp_img A,
+

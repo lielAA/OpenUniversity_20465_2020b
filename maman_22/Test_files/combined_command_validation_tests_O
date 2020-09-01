@@ -1,0 +1,1143 @@
+
+Enter one of the following next commands with relevant parameters for each:
+1. read_comp 
+2. print_comp 
+3. add_comp 
+4. sub_comp 
+5. mult_comp_real 
+6. mult_comp_img 
+7. mult_comp_comp 
+8. abs_comp 
+9. stop
+
+Examples for different commands:
+--------------------------------
+read_comp A,20,3
+print_comp C
+sub_comp B,D
+mult_comp_real E,-51.22
+--------------------------------
+Insert command here:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp A
+
+2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,2.3	,	220.15
+
+B = 2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C, -15.15 , 87.133
+
+C = -15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp C
+
+-15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp C
+
+15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp A,C
+
+-291.70 + (128.82)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img C,-33.567
+
+2924.79 + (508.54)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,99.6,-21.15
+
+A = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp A,C
+
+84.45 + (65.98)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp A,C
+
+114.75 + (-108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp C,A
+
+-114.75 + (108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp B,C
+
+-19217.17 + (-3134.87)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real C,	-66.45
+
+1006.72 + (-5789.99)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+99.60 + (21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,5,200
+
+F = 5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp F
+
+5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp D,25.13	,	-913.15
+
+D = 25.13 + (-913.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+
+E = -145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp E
+
+-145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+1005.81 + (-29063.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img E,-33.567
+
+-290.57 + (4870.57)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,99.6,-21.15
+
+F = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp F,D
+
+124.73 + (-934.30)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp D,F
+
+-74.47 + (-892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp F,D
+
+74.47 + (892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+-14635.05 + (2206.67)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real E,	-66.45
+
+9641.90 + (575.23)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp A
+
+2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,2.3	,	220.15
+
+B = 2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C, -15.15 , 87.133
+
+C = -15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp C
+
+-15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp C
+
+15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp A,C
+
+-291.70 + (128.82)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img C,-33.567
+
+2924.79 + (508.54)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,99.6,-21.15
+
+A = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp A,C
+
+84.45 + (65.98)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp A,C
+
+114.75 + (-108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp C,A
+
+-114.75 + (108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp B,C
+
+-19217.17 + (-3134.87)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real C,	-66.45
+
+1006.72 + (-5789.99)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+99.60 + (21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,5,200
+
+F = 5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp F
+
+5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp D,25.13	,	-913.15
+
+D = 25.13 + (-913.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+
+E = -145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp E
+
+-145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+1005.81 + (-29063.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img E,-33.567
+
+-290.57 + (4870.57)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,99.6,-21.15
+
+F = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp F,D
+
+124.73 + (-934.30)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp D,F
+
+-74.47 + (-892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp F,D
+
+74.47 + (892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+-14635.05 + (2206.67)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real E,	-66.45
+
+9641.90 + (575.23)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp A
+
+2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,2.3	,	220.15
+
+B = 2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C, -15.15 , 87.133
+
+C = -15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp C
+
+-15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp C
+
+15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp A,C
+
+-291.70 + (128.82)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img C,-33.567
+
+2924.79 + (508.54)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,99.6,-21.15
+
+A = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp A,C
+
+84.45 + (65.98)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp A,C
+
+114.75 + (-108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp C,A
+
+-114.75 + (108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp B,C
+
+-19217.17 + (-3134.87)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real C,	-66.45
+
+1006.72 + (-5789.99)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+99.60 + (21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,5,200
+
+F = 5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp F
+
+5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp D,25.13	,	-913.15
+
+D = 25.13 + (-913.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+
+E = -145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp E
+
+-145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+1005.81 + (-29063.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img E,-33.567
+
+-290.57 + (4870.57)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,99.6,-21.15
+
+F = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp F,D
+
+124.73 + (-934.30)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp D,F
+
+-74.47 + (-892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp F,D
+
+74.47 + (892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+-14635.05 + (2206.67)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real E,	-66.45
+
+9641.90 + (575.23)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp A
+
+2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,2.3	,	220.15
+
+B = 2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C, -15.15 , 87.133
+
+C = -15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp C
+
+-15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp C
+
+15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp A,C
+
+-291.70 + (128.82)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img C,-33.567
+
+2924.79 + (508.54)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,99.6,-21.15
+
+A = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp A,C
+
+84.45 + (65.98)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp A,C
+
+114.75 + (-108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp C,A
+
+-114.75 + (108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp B,C
+
+-19217.17 + (-3134.87)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real C,	-66.45
+
+1006.72 + (-5789.99)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+99.60 + (21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,5,200
+
+F = 5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp F
+
+5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp D,25.13	,	-913.15
+
+D = 25.13 + (-913.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+
+E = -145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp E
+
+-145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+1005.81 + (-29063.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img E,-33.567
+
+-290.57 + (4870.57)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,99.6,-21.15
+
+F = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp F,D
+
+124.73 + (-934.30)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp D,F
+
+-74.47 + (-892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp F,D
+
+74.47 + (892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+-14635.05 + (2206.67)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real E,	-66.45
+
+9641.90 + (575.23)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp A
+
+2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,2.3	,	220.15
+
+B = 2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C, -15.15 , 87.133
+
+C = -15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp C
+
+-15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp C
+
+15.15 + (87.13)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp A,C
+
+-291.70 + (128.82)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img C,-33.567
+
+2924.79 + (508.54)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,99.6,-21.15
+
+A = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp A,C
+
+84.45 + (65.98)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp A,C
+
+114.75 + (-108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp C,A
+
+-114.75 + (108.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp B,C
+
+-19217.17 + (-3134.87)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real C,	-66.45
+
+1006.72 + (-5789.99)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+99.60 + (21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,5,200
+
+F = 5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp F
+
+5.00 + (200.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp D,25.13	,	-913.15
+
+D = 25.13 + (-913.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp B
+
+2.30 + (220.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp E, -145.1 , -8.65656565656565656565656565656565565
+
+E = -145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+print_comp E
+
+-145.10 + (-8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+1005.81 + (-29063.28)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_img E,-33.567
+
+-290.57 + (4870.57)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,99.6,-21.15
+
+F = 99.60 + (-21.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+add_comp F,D
+
+124.73 + (-934.30)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp D,F
+
+-74.47 + (-892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+sub_comp F,D
+
+74.47 + (892.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp F,E
+
+-14635.05 + (2206.67)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_real E,	-66.45
+
+9641.90 + (575.23)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp E
+
+145.10 + (8.66)i
+#############################
+Please enter another command:
+
+Typed Command: 
+stop

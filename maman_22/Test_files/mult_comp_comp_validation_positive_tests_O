@@ -1,0 +1,237 @@
+
+Enter one of the following next commands with relevant parameters for each:
+1. read_comp 
+2. print_comp 
+3. add_comp 
+4. sub_comp 
+5. mult_comp_real 
+6. mult_comp_img 
+7. mult_comp_comp 
+8. abs_comp 
+9. stop
+
+Examples for different commands:
+--------------------------------
+read_comp A,20,3
+print_comp C
+sub_comp B,D
+mult_comp_real E,-51.22
+--------------------------------
+Insert command here:
+
+Typed Command: 
+read_comp C,2,3
+
+C = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,4,5
+
+F = 4.00 + (5.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-7.00 + (22.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,1,4
+
+C = 1.00 + (4.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-16.00 + (21.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,2,6
+
+F = 2.00 + (6.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-22.00 + (14.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,1.5,2
+
+C = 1.50 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,2.22,3
+
+F = 2.22 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-2.67 + (8.94)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,2,3.645
+
+C = 2.00 + (3.65)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,3,4.987
+
+F = 3.00 + (4.99)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-12.18 + (20.91)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,222.123,98999.159
+
+C = 222.12 + (98999.16)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,87.456,33.1222
+
+F = 87.46 + (33.12)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-3259643.96 + (8665427.65)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,-1,2
+
+C = -1.00 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,-2,2
+
+F = -2.00 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-2.00 + (-6.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,1,-2
+
+C = 1.00 + (-2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,2,-2
+
+F = 2.00 + (-2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-2.00 + (-6.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,-1.123,3
+
+C = -1.12 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,-4.624,4
+
+F = -4.62 + (4.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-6.81 + (-18.36)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,1,-3.908
+
+C = 1.00 + (-3.91)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,3,-8.645
+
+F = 3.00 + (-8.64)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+-30.78 + (-20.37)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,-10.234,-20.556
+
+C = -10.23 + (-20.56)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,-987.123,-91.159
+
+F = -987.12 + (-91.16)i
+#############################
+Please enter another command:
+
+Typed Command: 
+mult_comp_comp C,F
+
+8228.35 + (21224.22)i
+#############################
+Please enter another command:

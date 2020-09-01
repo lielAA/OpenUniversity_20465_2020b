@@ -1,0 +1,244 @@
+
+Enter one of the following next commands with relevant parameters for each:
+1. read_comp 
+2. print_comp 
+3. add_comp 
+4. sub_comp 
+5. mult_comp_real 
+6. mult_comp_img 
+7. mult_comp_comp 
+8. abs_comp 
+9. stop
+
+Examples for different commands:
+--------------------------------
+read_comp A,20,3
+print_comp C
+sub_comp B,D
+mult_comp_real E,-51.22
+--------------------------------
+Insert command here:
+
+Typed Command: 
+read_comp A,2,3
+
+A = 2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+2.00 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,	4,5
+
+A = 4.00 + (5.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp 	A 			
+
+4.00 + (5.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,2.2,	3
+
+A = 2.20 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A 
+
+2.20 + (3.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A	,2,	3.3
+
+A = 2.00 + (3.30)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A    
+
+2.00 + (3.30)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A ,2.345 ,	3.678
+
+A = 2.35 + (3.68)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+2.35 + (3.68)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-1,2
+
+A = -1.00 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp 						A
+
+1.00 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,1, -2
+
+A = 1.00 + (-2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp         A
+
+1.00 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,	-1,-2
+
+A = -1.00 + (-2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+1.00 + (2.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,	-1.111 ,-2.2222
+
+A = -1.11 + (-2.22)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+1.11 + (2.22)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp A,-153.111,-295.2222
+
+A = -153.11 + (-295.22)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp A
+
+153.11 + (295.22)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,-5.5,-6.6
+
+B = -5.50 + (-6.60)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp C,-7.7,-8.8
+
+C = -7.70 + (-8.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp D,-9.9,-10.10
+
+D = -9.90 + (-10.10)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp E,10.2, 11.111
+
+E = 10.20 + (11.11)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp F,18.333	,		99.15
+
+F = 18.33 + (99.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp 	B
+
+5.50 + (6.60)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp  C
+
+7.70 + (8.80)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp 		D
+
+9.90 + (10.10)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp    E
+
+10.20 + (11.11)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp 					F
+
+18.33 + (99.15)i
+#############################
+Please enter another command:
+
+Typed Command: 
+read_comp B,0.0,0.0
+
+B = 0.00 + (0.00)i
+#############################
+Please enter another command:
+
+Typed Command: 
+abs_comp B
+
+0.00 + (0.00)i
+#############################
+Please enter another command:
