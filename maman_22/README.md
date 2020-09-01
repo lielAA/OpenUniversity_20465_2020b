@@ -6,7 +6,7 @@ This program is interactive program, that received from the user different comma
 <br>Any command contain: 1.string command 2.complex variable(s) 3. comma(s) 4.double number(s).
 Command Description & Explanation:
 <br>1. String command could be only one of the next nine commands: 
-  <br>1.read_comp 
+  <br><\t>1.read_comp 
   <br>2.print_comp 
   <br>3.add_comp 
   <br>4.sub_comp 
