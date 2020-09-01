@@ -1,0 +1,6 @@
+$ ./assembler badpath-datasize
+
+Error at line 19: DATA OVERFLOW - data size is out of range - legal data size should be between -8388608 to 8388607
+
+Error at line 25: DATA OVERFLOW - data size is out of range - legal data size should be between -8388608 to 8388607
+

@@ -1,0 +1,6 @@
+$ ./assembler badpath-immedsize
+
+Error at line 19: IMEDIATE DATA OVERFLOW - imediate data size is out of range - legal data size should be between -1048576 to 1048575
+
+Error at line 25: IMEDIATE DATA OVERFLOW - imediate data size is out of range - legal data size should be between -1048576 to 1048575
+

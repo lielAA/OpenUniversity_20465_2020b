@@ -1,0 +1,79 @@
+$ ./assembler badpath-pass1
+
+Error at line 18: Ilegal number OR type of vars for command type
+
+Error at line 21: Ilegal number OR type of vars for command type
+
+Error at line 24: Ilegal number OR type of vars for command type
+
+Error at line 30: unmatch method for command type
+
+Error at line 36: unmatch method for command type
+
+Error at line 39: Unrecognized command
+
+Error at line 42: Unrecognized command
+
+Error at line 45: Ilegal number of vars for instruction
+
+Error at line 48: Ilegal number of vars for instruction
+
+Error at line 51: Ilegal chars for command syntax
+
+Error at line 54: unrecognized address for var in command
+
+Error at line 57: Ilegal chars for command syntax
+
+Error at line 60: unrecognized address for var in command
+
+Error at line 63: Duplicate in labeles names
+
+Error at line 66: Unrecognized command
+
+Error at line 69: unmatch method for command type
+
+Error at line 72: unmatch method for command type
+
+Error at line 75: Ilegal number OR type of vars for command type
+
+Error at line 84: missing comma after number in .data
+
+Error at line 96: .data contain multiple commas after number
+
+Error at line 99: .data contain unnecessary comma
+
+Error at line 102: ilegal number for .data
+
+Error at line 105: ilegal number for .data
+
+Error at line 108: ilegal number for .data
+
+Error at line 111: Duplicate names between label and command
+
+Error at line 114: Duplicate names between label and register
+
+Error at line 117: Duplicate in labeles names
+
+Error at line 123: Incorrect first char in line
+
+Error at line 129: .extern received label that defined as local
+
+Error at line 132: .extern received label that defined as local
+
+Error at line 144: Unrecognized command
+
+Error at line 147: Unrecognized command
+
+Error at line 153: Misssing apostrophes at the start of string
+
+Error at line 156: Too many vars for .string
+
+Error at line 162: label name is too long
+
+Error at line 165: data not contain number
+
+Error at line 168: missing label for .entry
+
+Error at line 171: Unrecognized command
+
+Error at line 177: Ilegal number OR type of vars for command type

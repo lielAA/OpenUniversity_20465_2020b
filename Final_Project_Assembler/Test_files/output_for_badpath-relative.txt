@@ -1,0 +1,18 @@
+$ ./assembler badpath-relative
+
+Error at line 27: unmatch method for command type
+
+Error at line 30: unmatch method for command type
+
+Error at line 33: unmatch method for command type
+
+Error at line 36: unrecognized address for var in command
+
+Error at line 39: Ilegal chars for command syntax
+
+Error at line 42: unrecognized address for var in command
+
+Error at line 45: unrecognized address for var in command
+
+Error at line 48: Ilegal number OR type of vars for command type
+

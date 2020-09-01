@@ -1,0 +1,16 @@
+&./assembler badpath-pass2
+
+Error at line 28: missing label for .entry
+
+Error at line 31: missing label for .entry
+
+Error at line 34: missing label for .entry
+
+Error at line 37: missing label for .entry
+
+Error at line 46: missing label for .entry
+
+Error at line 49: missing label for .entry
+
+Error at line 52: missing label for .entry
+
